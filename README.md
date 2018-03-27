@@ -17,9 +17,7 @@ Authors: Ann-Marie Baker*^, William Cross*, Kit Curtius*, Ibrahim Al-Bakir*, Cha
 
 ### QDNAseq_pipeline.R
 - R sript to take processed bam files
-- Saves segmentation and CNA calll data in a .Rdata file for downstream analyses (see workflow)
-  
- ![plot](LPWGS_workflow.png)
+- Saves segmentation and CNA calll data in a .Rdata file for downstream analyses (see workflow below)
   
 ### CACRC_evolution_CNV_analyses.R
 -  R script performs the analyses to create:
@@ -30,5 +28,6 @@ Authors: Ann-Marie Baker*^, William Cross*, Kit Curtius*, Ibrahim Al-Bakir*, Cha
 									
   	All corresponding Results in the Main text regarding the above	
 
-
+ ![plot](LPWGS_workflow.png)
+  
     
