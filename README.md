@@ -16,7 +16,7 @@ QDNAseq_pipeline.R
 - R sript to take processed bam files
 - Saves segmentation and CNA calll data in a .Rdata file for downstream analyses (see workflow)
   
- ![lpWGS Pipeline](/Users/curtiu01/Dropbox/SMD_2018_Fellowship/Evo_history_CACRC/LPWGS_workflow.pdf)
+ ![plot](LPWGS_workflow.pdf)
   
 CACRC_evolution_CNV_analyses.R
 -  R script performs the analyses to create:						
