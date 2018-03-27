@@ -14,13 +14,13 @@ Authors: Ann-Marie Baker*^, William Cross*, Kit Curtius*, Ibrahim Al-Bakir*, Cha
 Email: t.graham@qmul.ac.uk
 
 ### Make_Bams_lpWGS_pipeline.sh
-- Bash script that contains bioninformatics pipeline to create bam files from 81 low-pass whole genome sequenced tissue samples
+- Bash script that contains bioinformatics pipeline to create bam files from 81 low-pass whole genome sequenced tissue samples
 - takes fastq file format and .txt with sample info as input (see workflow)
 
 
 ### QDNAseq_pipeline.R
-- R sript to take processed bam files
-- Saves segmentation and CNA calll data in a .Rdata file for downstream analyses (see workflow below)
+- R script to take processed bam files
+- Saves segmentation and CNA call data in a .Rdata file for downstream analyses (see workflow below)
   
 ### CACRC_evolution_CNV_analyses.R
 -  R script performs the analyses to create:
