@@ -8,7 +8,10 @@ Authors: Ann-Marie Baker*^, William Cross*, Kit Curtius*, Ibrahim Al-Bakir*, Cha
 
 \* joint first authors
 
-^For correspondence:- Ann-Marie BakerEmail: a.m.c.baker@qmul.ac.uk- Simon LeedhamEmail: simonl@well.ox.ac.uk- Trevor GrahamEmail: t.graham@qmul.ac.uk
+^For correspondence:- Ann-Marie Baker
+Email: a.m.c.baker@qmul.ac.uk- Simon Leedham
+Email: simonl@well.ox.ac.uk- Trevor Graham
+Email: t.graham@qmul.ac.uk
 
 ### Make_Bams_lpWGS_pipeline.sh
 - Bash script that contains bioninformatics pipeline to create bam files from 81 low-pass whole genome sequenced tissue samples
