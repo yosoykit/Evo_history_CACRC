@@ -1,10 +1,10 @@
-###########################################################################################
-###########   Baker et al. 2018 												###########
-########### This script performs the analyses to create:						###########
-###########   Figures 3B, 3C, 4 												###########
-###########   Supplementary Tables 9, 10 										###########
-###########   All corresponding Results in the Main text regarding the above	###########
-###########################################################################################
+################################################
+## Baker et al. 2018 												
+## This script performs the analyses to create:						
+## Figures 3B, 3C, 4 												
+## Supplementary Tables 9, 10 										
+## All corresponding Results in the Main text 
+################################################
 
 ## Load LGD/HGD call data for 500 kbp binning, 6 bins blacklisted - total of 4401 bins. All specific folder names have been changed to generic placeholders  
 ## 81 samples total (LGD = 38, HGD = 23, CACRC = 7, U = 12, pseudopolyp = 1) - to be used lpWGS in CA-CRC paper Baker et al. 2018
