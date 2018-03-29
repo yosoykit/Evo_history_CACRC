@@ -4,7 +4,7 @@ These are the scripts written and used to implement all bioinformatic and statis
 
 "The evolutionary history of human colitis-associated colorectal cancer"
 
-Authors: Ann-Marie Baker^\*, Kit Curtius\*, Ibrahim Al-Bakir\*, Chang-Ho Ryan Choi\*, Hayley Davis, Daniel Temko, Sujata Biswas, Pierre Martinez, Marc Williams, James O Lindsay, Roger Feakins, Roser Vega6, Stephen J Hayes, Ian PM Tomlinson, Stuart AC McDonald, Morgan Moorghen, Andrew Silver, James E East, Nicholas A Wright, Lai Mun Wang, Manuel Rodriguez-Justo, Marnix Jansen, Ailsa L Hart^, Simon J Leedham^ and Trevor A Graham^
+Authors: Ann-Marie Baker^\*, William Cross\*, Kit Curtius\*, Ibrahim Al-Bakir\*, Chang-Ho Ryan Choi\*, Hayley Davis, Daniel Temko, Sujata Biswas, Pierre Martinez, Marc Williams, James O Lindsay, Roger Feakins, Roser Vega6, Stephen J Hayes, Ian PM Tomlinson, Stuart AC McDonald, Morgan Moorghen, Andrew Silver, James E East, Nicholas A Wright, Lai Mun Wang, Manuel Rodriguez-Justo, Marnix Jansen, Ailsa L Hart^, Simon J Leedham^ and Trevor A Graham^
 
 \* joint first authors
 
