@@ -21,7 +21,7 @@ Email: simonl@well.ox.ac.uk
 
 Email: t.graham@qmul.ac.uk
 
-*Data used in the analyses (except for publicly available TCGA datasets, indicated in script placeholders) can be accessed at European Genome-phenome Archive (EGA) DCA \*_____________\* *
+_Data used in the analyses (except for publicly available TCGA datasets, indicated in script placeholders) can be accessed at European Genome-phenome Archive (EGA) DCA \*_____________\* _
 
 ## Folder contents:
 
