@@ -1,0 +1,30 @@
+Signature.1,Spontaneous deamination of 5.methylcytosine,Intrinsic,Clock.like
+Signature.2,APOBEC,Intrinsic,Not clock.like
+Signature.3,Defective DNA double.strand break repair,Intrinsic,Not clock.like
+Signature.4,Smoking,Extrinsic,Not clock.like
+Signature.5,Unknown aetiology,Unknown,Clock.like
+Signature.6,dMMR,Intrinsic,Not clock.like
+Signature.7,Ultraviolet light,Extrinsic,Not clock.like
+Signature.8,Unknown aetiology,Unknown,Not clock.like
+Signature.9,Polymerase eta,Intrinsic,Not clock.like
+Signature.10,POLE,Intrinsic,Not clock.like
+Signature.11,Temozolomide,Extrinsic,Not clock.like
+Signature.12,Unknown aetiology,Unknown,Not clock.like
+Signature.13,APOBEC,Intrinsic,Not clock.like
+Signature.14,Unknown aetiology,Unknown,Not clock.like
+Signature.15,dMMR,Intrinsic,Not clock.like
+Signature.16,Unknown aetiology,Unknown,Not clock.like
+Signature.17,Unknown aetiology,Unknown,Not clock.like
+Signature.18,Unknown aetiology,Unknown,Not clock.like
+Signature.19,Unknown aetiology,Unknown,Not clock.like
+Signature.20,dMMR,Intrinsic,Not clock.like
+Signature.21,Unknown aetiology,Unknown,Not clock.like
+Signature.22,Aristolochic acid,Extrinsic,Not clock.like
+Signature.23,Unknown aetiology,Unknown,Not clock.like
+Signature.24,Aflotoxin,Extrinsic,Not clock.like
+Signature.25,Unknown aetiology,Unknown,Not clock.like
+Signature.26,dMMR,Intrinsic,Not clock.like
+Signature.27,Unknown aetiology,Unknown,Not clock.like
+Signature.28,Unknown aetiology,Unknown,Not clock.like
+Signature.29,Tobacco chewing,Extrinsic,Not clock.like
+Signature.30,Unknown aetiology,Unknown,Not clock.like
