@@ -21,7 +21,7 @@ total_binslowpass = 4401
 setwd("/data/Results/finalbams")
 outputdir<-"/data/Results/QDNAseq/CNAcalling"
 plotdir<-"/data/Results/QDNAseq/CACRC_paper_Figures"
-samples<-read.table('../../LGD_HGD_81_samples.txt', colClasses = c("character"))[,3:6]
+samples<-read.table('../../LGD_HGD_81_samples_final_withlesion.txt', colClasses = c("character"))[,3:6]
 filenames<-paste(samples[,1],samples[,2],sep=".")[1:run_size]
 MSIind = which(substr(filenames,1,4)=="3611")
 bulk3305_h2 =which(filenames=="3305.H2") 
