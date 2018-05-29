@@ -19,7 +19,7 @@ bins500 <- getBinAnnotations(binSize=500)
 
 
 #process each bam individually, first read in bam filenames (n=81)
-samples<-read.table('../../LGD_HGD_81_samples.txt', colClasses = c("character"))[,3:4]
+samples<-read.table('../../LGD_HGD_81_samples_final_withlesion.txt', colClasses = c("character"))[,3:4]
 filenames<-paste(samples[,1],samples[,2],sep=".")[1:run_size]
 callnames=c("copynumber", "probgain"   ,"probdloss",  "probamp" ,   "segmented" , "probnorm" ,  "calls"   ,   "probloss") 
 
